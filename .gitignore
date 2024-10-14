@@ -1,2 +1,4 @@
 .venv
 image
+json_data
+*.pth
